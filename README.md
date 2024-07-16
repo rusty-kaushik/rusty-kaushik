@@ -1,10 +1,8 @@
 - 👋 Hi, I’m Aniket aka rusty aka @rusty-kaushik
 - 👀 I’m interested in umm  java and powerlifting 🏋️‍♂️
-- 🌱 I’m currently learning java and javaScript 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning SpringBoot and javaScript 
 - 📫 How to reach me aniketkaushik11@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I have been a Laravel developer, AS400 developer and currently a java developer
+- Linkedin - 
 
 <!---
 rusty-kaushik/rusty-kaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
